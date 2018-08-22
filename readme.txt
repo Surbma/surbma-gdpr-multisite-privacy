@@ -74,6 +74,10 @@ It is the reverse version of my last name. ;)
 
 == Changelog ==
 
+= 1.1 =
+
+- TWEAK - New unique class namespace.
+
 = 1.0 =
 
 - Initial release.
