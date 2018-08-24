@@ -4,7 +4,7 @@ Donate link: https://surbma.com/donate/
 Tags: surbma, security, user, multisite, privacy, gdpr, dpo
 Requires at least: 4.0
 Tested up to: 4.9
-Stable tag: 1.0
+Stable tag: 1.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,11 +16,13 @@ This plugin is only for Multisite networks! It will give special privileges to e
 
 Only one user will get the special capabilities to set and edit the privacy policy page and get access to user data export or removal pages. The user must be an administrator and the user's email address must match with the default email address under Settings page.
 
-### The Problem
+### The Problem...
 
 By default, the new Privacy settings introduced in WordPress 4.9.6 is available only for single install Administrators or if you use a Multsiite install, it is available only for Super Admins. There is no default option to enable Privacy settings for subsites. It can be a big problem for you subsite users, because they can not meet the GDPR rules.
 
-This plugin will give subsite Administrators access to these new privacy features. Only one administrator will get these new privileges, who has the same email, that is set under Settings page.
+### ...and the solution
+
+This plugin will give subsite Administrators access to these new privacy features. Only one administrator will get these new privileges per subsite, who has the same email, that is set under Settings page.
 
 ### About Surbma
 
@@ -73,6 +75,10 @@ No, it will not have any security risk for the Multisite network. Personal user 
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.2 =
+
+- Some changes in the description.
 
 = 1.1 =
 
