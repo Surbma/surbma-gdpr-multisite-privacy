@@ -4,7 +4,7 @@ Donate link: https://surbma.com/donate/
 Tags: surbma, security, user, multisite, privacy, gdpr, dpo
 Requires at least: 4.0
 Tested up to: 4.9
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,9 +24,18 @@ By default, the new Privacy settings introduced in WordPress 4.9.6 is available 
 
 This plugin will give subsite Administrators access to these new privacy features. Only one administrator will get these new privileges per subsite, who has the same email, that is set under Settings page.
 
+### Other GDPR related plugins by Surbma
+
+- [Surbma | GDPR Proof Cookie Consent & Notice Bar](https://wordpress.org/plugins/surbma-gdpr-proof-google-analytics/)
+- [Surbma | GDPR Proof Gravity Forms](https://wordpress.org/plugins/surbma-gdpr-proof-gravity-forms/)
+
 ### About Surbma
 
-#### Do you want to contribute or help improving this plugin?**
+#### Other Surbma plugins
+
+I have more, than 30 fantastic, FREE plugins in the official WordPress plugin directory. Please check them too here: [Surbma plugins](https://profiles.wordpress.org/surbma#content-plugins)
+
+#### Do you want to contribute or help improving this plugin?
 
 You can find it on GitHub: [https://github.com/Surbma/surbma-gdpr-multisite-privacy](https://github.com/Surbma/surbma-gdpr-multisite-privacy)
 
@@ -48,16 +57,16 @@ You can donate me for FREE here: [Surbma.com](https://surbma.com/donate/)
 
 ### Automatic installation
 
-1. Search for Surbma | GDPR Multisite Privacy through 'Plugins > Add New' interface.
-2. Find the plugin box of Surbma | GDPR Multisite Privacy and click on the 'Install Now' button.
-3. Then activate the Surbma | GDPR Multisite Privacy plugin.
+1. Search for *Surbma | GDPR Multisite Privacy* through Plugins > Add New interface.
+2. Find the plugin box of *Surbma | GDPR Multisite Privacy* and click on the "Install Now" button.
+3. Then activate the *Surbma | GDPR Multisite Privacy* plugin.
 4. That's it. :)
 
 ### Manual installation
 
 1. Download [Surbma | GDPR Multisite Privacy](https://downloads.wordpress.org/plugin/surbma-gdpr-multisite-privacy.zip)
-2. Upload Surbma | GDPR Multisite Privacy through 'Plugins > Add New > Upload' interface or upload surbma-gdpr-multisite-privacy folder to the `/wp-content/plugins/` directory.
-3. Activate the Surbma | GDPR Multisite Privacy plugin through the 'Plugins' menu in WordPress.
+2. Upload *Surbma | GDPR Multisite Privacy* through Plugins > Add New > Upload interface or upload surbma-gdpr-multisite-privacy folder to the "/wp-content/plugins/" directory.
+3. Activate the *Surbma | GDPR Multisite Privacy* plugin through the "Plugins" menu in WordPress.
 4. That's it. :)
 
 == Frequently Asked Questions ==
@@ -75,6 +84,10 @@ No, it will not have any security risk for the Multisite network. Personal user 
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.4 =
+
+- Some changes in the description.
 
 = 1.3 =
 
