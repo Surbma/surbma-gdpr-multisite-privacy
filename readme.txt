@@ -4,7 +4,7 @@ Donate link: https://surbma.com/donate/
 Tags: surbma, security, user, multisite, privacy, gdpr, dpo
 Requires at least: 4.0
 Tested up to: 4.9
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -75,6 +75,10 @@ No, it will not have any security risk for the Multisite network. Personal user 
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.3 =
+
+- Network only mode enabled, to avoid single subsite activation.
 
 = 1.2 =
 

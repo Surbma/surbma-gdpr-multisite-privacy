@@ -3,8 +3,9 @@
 Plugin Name: Surbma | GDPR Multisite Privacy
 Plugin URI: https://surbma.com/wordpress-plugins/
 Description: A GDPR Multisite plugin, that adds special privileges to a subsite Administrator for Privacy settings.
+Network: true
 
-Version: 1.2
+Version: 1.3
 
 Author: Surbma
 Author URI: https://surbma.com/
