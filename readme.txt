@@ -1,10 +1,11 @@
 === Surbma | GDPR Multisite Privacy ===
-Contributors: Surbma
+Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: surbma, security, user, multisite, privacy, gdpr, dpo
-Requires at least: 4.0
-Tested up to: 4.9
-Stable tag: 1.4
+Requires at least: 5.1
+Tested up to: 5.3
+Stable tag: 2.0
+Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -84,6 +85,13 @@ No, it will not have any security risk for the Multisite network. Personal user 
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.0 =
+
+Release date: 2020-02-10
+
+- TWEAK - Tested with WordPress 5.3 version.
+- TWEAK - Updated to use a new way to deploy it to wp.org repo.
 
 = 1.4 =
 

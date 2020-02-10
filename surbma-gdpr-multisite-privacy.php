@@ -5,7 +5,7 @@ Plugin URI: https://surbma.com/wordpress-plugins/
 Description: A GDPR Multisite plugin, that adds special privileges to a subsite Administrator for Privacy settings.
 Network: true
 
-Version: 1.4
+Version: 2.0
 
 Author: Surbma
 Author URI: https://surbma.com/
@@ -84,7 +84,7 @@ class Surbma_GDPR_Multisite_Privacy {
 
 				if ( $e_user === $e_admin ) {
 					$this->privacy = true;
-				}	
+				}
 			}
 		}
 	}
@@ -123,7 +123,7 @@ class Surbma_GDPR_Multisite_Privacy {
 	 *
 	 * This function is required for using "Erase Personal Data".
 	 * User needs delete_users privileges to use that.
-	 * 
+	 *
 	 * IMPORTANT | WP DOCS
 	 * Require both caps in order to make it explicitly clear that delegating
 	 * erasure from network admins to single-site admins will give them the
